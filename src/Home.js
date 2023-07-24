@@ -10,7 +10,7 @@ const Home = () => {
       <main>
         <section className="hero">
           <div className="container">
-            <h1>Welcome to Company Name</h1>
+            <h1>Welcome to Techno Soft Hunter</h1>
             <p>We are a leading company that provides top-notch services to our clients.</p>
           </div>
         </section>
