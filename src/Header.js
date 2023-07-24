@@ -6,13 +6,13 @@ const Header = () => {
     <header className="header">
       <nav className="navbar">
         <div className="container">
-          <Link className="logo" to="/">Company Name</Link>
-          <ul className="nav-links">
+          {/* <Link className="logo" to="/">Company Name</Link> */}
+          {/* <ul className="nav-links">
             <li><Link to="/">Home</Link></li>
             <li><Link to="/about">About</Link></li>
             <li><Link to="/services">Services</Link></li>
             <li><Link to="/contact">Contact</Link></li>
-          </ul>
+          </ul> */}
         </div>
       </nav>
     </header>

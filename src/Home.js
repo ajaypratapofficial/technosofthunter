@@ -1,12 +1,12 @@
 import React from 'react';
 import './Home.css'
-// import Header from './Header.js';
-// import Footer from './Footer.js';
+import Header from './Header.js';
+import Footer from './Footer.js';
 
 const Home = () => {
   return (
     <>
-      {/* <Header /> */}
+      <Header />
       <main>
         <section className="hero">
           <div className="container">
@@ -43,7 +43,7 @@ const Home = () => {
           </div>
         </section>
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 };
